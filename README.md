@@ -6,5 +6,4 @@ squares. First the program places one random square somewhere in the courtyard. 
 form an L shape. Since scheme is a purely recursive language, this program gave me a lot of good practice with complicated recursion, specifically divide and conquer recursion.
 
 waterjug.cpp is a program written in c++ that plays the waterjug game. There are three waterjugs, each full of water in some start state. They then pour water into eachother by a
-strict set of rules. the user defines the start state, along with an end state. My program determines if the end state is reachable from the start state. From this I learned how to 
-work with pointers in c++.
+strict set of rules. The user defines the start state, along with an end state. My program determines if the end state is reachable from the start state. From this I learned how to work with pointers in c++.
